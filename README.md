@@ -97,13 +97,10 @@ filename.png: extracted_text
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-MIT
 
 ## ⚠️ Disclaimer
 
-This project is not affiliated with OpenAI. All API pricing and performance metrics are subject to change. Please refer to [OpenAI's official documentation](https://openai.com/pricing) for current pricing.
+This project is not affiliated with OpenAI. All API pricing and performance metrics are subject to change. Please refer to [OpenAI's official documentation]([https://openai.com/pricing](https://platform.openai.com/docs/api-reference/introduction)) for current pricing.
 
 
 
