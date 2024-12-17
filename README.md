@@ -25,9 +25,7 @@ This project demonstrates:
 ## 🚀 Features
 
 - Efficient text extraction using GPT-4 Turbo
-- Real-time cost and performance monitoring
 - Detailed token usage analytics
-- Automated batch processing
 - Timestamped results with comprehensive stats
 
 ## 📊 Performance Metrics
