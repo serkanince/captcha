@@ -1,0 +1,10 @@
+{
+  "name": "captcha-solver",
+  "version": "1.0.0",
+  "description": "OpenAI Vision API ile captcha çözücü",
+  "main": "captcha_solver.js",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "4.76.3"
+  }
+}
