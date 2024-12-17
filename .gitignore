@@ -43,9 +43,7 @@ coverage
 
 # Project specific
 /results/
-/image/
 *.txt
-*.png
 *.jpg
 *.jpeg
 
