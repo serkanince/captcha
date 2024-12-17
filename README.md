@@ -1,4 +1,4 @@
-# OpenAI Vision API Cost Optimizer
+# Text Extraction with OpenAI Vision API in a Node.js Application 
 
 A highly optimized Node.js application demonstrating cost-effective text extraction from images using OpenAI's Vision API. This project showcases how to achieve significant cost reductions through model selection and token optimization while maintaining high accuracy.
 
