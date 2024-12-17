@@ -101,20 +101,6 @@ filename.png: extracted_text
    - Detailed reporting
    - Multi-currency support (USD/TL)
 
-## 🔒 Security
-
-- Store API keys in environment variables
-- Implement rate limiting
-- Secure file handling
-- Error management and logging
-
-## 📈 Key Learnings
-
-This project demonstrates how to optimize AI API costs through:
-1. Strategic model selection (96% savings)
-2. Token usage optimization
-3. Efficient processing techniques
-4. Comprehensive monitoring
 
 ## 🤝 Contributing
 
