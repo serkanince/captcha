@@ -100,6 +100,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is not affiliated with OpenAI. All API pricing and performance metrics are subject to change. Please refer to [OpenAI's official documentation](https://platform.openai.com/docs/api-reference/introduction) for current pricing.
 
+## 📸 Example Captcha Images
+
+Below are some example captcha images that can be processed using this application:
+
+![Captcha 1](https://github.com/serkanince/captcha/blob/main/image/c1.png)
+![Captcha 2](https://github.com/serkanince/captcha/blob/main/image/c2.png)
+![Captcha 3](https://github.com/serkanince/captcha/blob/main/image/c3.png)
+
 
 
 
