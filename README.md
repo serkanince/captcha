@@ -6,7 +6,6 @@ A highly optimized Node.js application demonstrating cost-effective text extract
 
 This project demonstrates:
 - How to optimize token usage in OpenAI's Vision API
-- Techniques to reduce API consumption costs by up to 96%
 - Best practices for performance monitoring
 - Efficient image processing strategies
 
@@ -14,7 +13,7 @@ This project demonstrates:
 
 ### Token Optimization
 - Optimized token usage: ~110 tokens per image
-- Achieved through model selection (GPT-4 Turbo)
+- Achieved through model selection (GPT-4 Turbo) (maybe use gpt-4o-mini model, because more capable for text extraction)
 - Optimized system prompts and messages
 - Implemented "low detail" mode without accuracy loss
 
@@ -86,18 +85,10 @@ filename.png: extracted_text
 1. **API Optimization**
    - Minimal system prompts
    - Optimized token usage
-   - Low detail mode implementation
    - Rate limit handling
 
-2. **Performance Features**
-   - Efficient image encoding
-   - Automatic file processing
-   - Batch operation support
-   - Real-time analytics
-
-3. **Cost Management**
+2. **Cost Management**
    - Token usage monitoring
-   - Real-time cost tracking
    - Detailed reporting
    - Multi-currency support (USD/TL)
 
