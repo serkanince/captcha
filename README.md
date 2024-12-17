@@ -1,4 +1,4 @@
-# OpenAI Vision API Cost Optimizer
+# Text Extraction with OpenAI Vision API in a Node.js Application 
 
 A highly optimized Node.js application demonstrating cost-effective text extraction from images using OpenAI's Vision API. This project showcases how to achieve significant cost reductions through model selection and token optimization while maintaining high accuracy.
 
@@ -6,7 +6,6 @@ A highly optimized Node.js application demonstrating cost-effective text extract
 
 This project demonstrates:
 - How to optimize token usage in OpenAI's Vision API
-- Techniques to reduce API consumption costs by up to 96%
 - Best practices for performance monitoring
 - Efficient image processing strategies
 
@@ -14,7 +13,7 @@ This project demonstrates:
 
 ### Token Optimization
 - Optimized token usage: ~110 tokens per image
-- Achieved through model selection (GPT-4 Turbo)
+- Achieved through model selection (GPT-4 Turbo) (maybe use gpt-4o-mini model, because more capable for text extraction)
 - Optimized system prompts and messages
 - Implemented "low detail" mode without accuracy loss
 
@@ -26,9 +25,7 @@ This project demonstrates:
 ## 🚀 Features
 
 - Efficient text extraction using GPT-4 Turbo
-- Real-time cost and performance monitoring
 - Detailed token usage analytics
-- Automated batch processing
 - Timestamped results with comprehensive stats
 
 ## 📊 Performance Metrics
@@ -86,47 +83,22 @@ filename.png: extracted_text
 1. **API Optimization**
    - Minimal system prompts
    - Optimized token usage
-   - Low detail mode implementation
    - Rate limit handling
 
-2. **Performance Features**
-   - Efficient image encoding
-   - Automatic file processing
-   - Batch operation support
-   - Real-time analytics
-
-3. **Cost Management**
+2. **Cost Management**
    - Token usage monitoring
-   - Real-time cost tracking
    - Detailed reporting
    - Multi-currency support (USD/TL)
 
-## 🔒 Security
-
-- Store API keys in environment variables
-- Implement rate limiting
-- Secure file handling
-- Error management and logging
-
-## 📈 Key Learnings
-
-This project demonstrates how to optimize AI API costs through:
-1. Strategic model selection (96% savings)
-2. Token usage optimization
-3. Efficient processing techniques
-4. Comprehensive monitoring
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-MIT
 
 ## ⚠️ Disclaimer
 
-This project is not affiliated with OpenAI. All API pricing and performance metrics are subject to change. Please refer to [OpenAI's official documentation](https://openai.com/pricing) for current pricing.
+This project is not affiliated with OpenAI. All API pricing and performance metrics are subject to change. Please refer to [OpenAI's official documentation](https://platform.openai.com/docs/api-reference/introduction) for current pricing.
 
 
 
